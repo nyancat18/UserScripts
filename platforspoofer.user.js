@@ -3,7 +3,7 @@
 // @namespace   meh
 // @description change your navigator.platform when browsing
 // @include     *
-// @version     1
+// @version     1.1
 // ==/UserScript==
 var fakePlatformGetter = function () {
 return "LINCE";
