@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Navigator Platform Hider
-// @namespace   8ch.net/g
-// @description fake your platform when browsing
+// @namespace   meh
+// @description change your navigator.platform when browsing
 // @include     *
 // @version     1
 // ==/UserScript==
